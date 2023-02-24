@@ -1,0 +1,96 @@
+# Project exclude paths
+/.gradle/
+/Cinema Room Manager/task/build/
+/Cinema Room Manager/task/out/
+/Cinema Room Manager/task/out/production/classes/
+/Cinema Room Manager/task/out/test/classes/
+/Topics/Branching statements/A keyword to terminate the loop/out/
+/Topics/Branching statements/A keyword to terminate the loop/out/production/classes/
+/Topics/Branching statements/Even or odd/out/
+/Topics/Branching statements/Even or odd/out/production/classes/
+/Topics/Branching statements/Statements/out/
+/Topics/Branching statements/Statements/out/production/classes/
+/Topics/Branching statements/The same results/out/
+/Topics/Branching statements/The same results/out/production/classes/
+/Topics/Branching statements/Theory/out/
+/Topics/Branching statements/Theory/out/production/classes/
+/Topics/Comments/Forms of comments/out/
+/Topics/Comments/Forms of comments/out/production/classes/
+/Topics/Comments/The countdown/out/
+/Topics/Comments/The countdown/out/production/classes/
+/Topics/Comments/Theory/out/
+/Topics/Comments/Theory/out/production/classes/
+/Topics/Comments/What comments are not used in the program/out/
+/Topics/Comments/What comments are not used in the program/out/production/classes/
+/Topics/Conditional statement/Determine the output/out/
+/Topics/Conditional statement/Determine the output/out/production/classes/
+/Topics/Conditional statement/Interval/out/
+/Topics/Conditional statement/Interval/out/production/classes/
+/Topics/Conditional statement/Leap year/out/
+/Topics/Conditional statement/Leap year/out/production/classes/
+/Topics/Conditional statement/The condition to travel around the world/out/
+/Topics/Conditional statement/The condition to travel around the world/out/production/classes/
+/Topics/Conditional statement/Theory/out/
+/Topics/Conditional statement/Theory/out/production/classes/
+/Topics/Errors in programs/Fix the program/out/
+/Topics/Errors in programs/Fix the program/out/production/classes/
+/Topics/Functional decomposition/Kate's math function/out/
+/Topics/Functional decomposition/Kate's math function/out/production/classes/
+/Topics/Increment and decrement/Decrement all/out/
+/Topics/Increment and decrement/Decrement all/out/production/classes/
+/Topics/Increment and decrement/Remainder of division/out/
+/Topics/Increment and decrement/Remainder of division/out/production/classes/
+/Topics/Increment and decrement/Theory/out/
+/Topics/Increment and decrement/Theory/out/production/classes/
+/Topics/Integer types and operations/Arithmetic expression/out/
+/Topics/Integer types and operations/Arithmetic expression/out/production/classes/
+/Topics/Integer types and operations/Calculate the digit/out/
+/Topics/Integer types and operations/Calculate the digit/out/production/classes/
+/Topics/Integer types and operations/Difference of times/out/
+/Topics/Integer types and operations/Difference of times/out/production/classes/
+/Topics/Integer types and operations/Theory/out/
+/Topics/Integer types and operations/Theory/out/production/classes/
+/Topics/Iterating over arrays/Cyclically shifting elements/out/
+/Topics/Iterating over arrays/Cyclically shifting elements/out/production/classes/
+/Topics/Iterating over arrays/Find the sum/out/
+/Topics/Iterating over arrays/Find the sum/out/production/classes/
+/Topics/Iterating over arrays/Right Rotation/out/
+/Topics/Iterating over arrays/Right Rotation/out/production/classes/
+/Topics/Iterating over arrays/Select loops/out/
+/Topics/Iterating over arrays/Select loops/out/production/classes/
+/Topics/Iterating over arrays/Sum array elements greater than a value/out/
+/Topics/Iterating over arrays/Sum array elements greater than a value/out/production/classes/
+/Topics/Iterating over arrays/Theory/out/
+/Topics/Iterating over arrays/Theory/out/production/classes/
+/Topics/Multidimensional array/Indexing rules/out/
+/Topics/Multidimensional array/Indexing rules/out/production/classes/
+/Topics/Multidimensional array/Maximum element in a matrix/out/
+/Topics/Multidimensional array/Maximum element in a matrix/out/production/classes/
+/Topics/Multidimensional array/Multidimensional array features/out/
+/Topics/Multidimensional array/Multidimensional array features/out/production/classes/
+/Topics/Multidimensional array/Printing lengths of nested arrays/out/
+/Topics/Multidimensional array/Printing lengths of nested arrays/out/production/classes/
+/Topics/Multidimensional array/Reverse elements/out/
+/Topics/Multidimensional array/Reverse elements/out/production/classes/
+/Topics/Multidimensional array/Theory/out/
+/Topics/Multidimensional array/Theory/out/production/classes/
+/Topics/NPE/Avoid NPE with strings/out/
+/Topics/NPE/Avoid NPE with strings/out/production/classes/
+/Topics/String/Replacing 'a' with 'b'/out/
+/Topics/String/Replacing 'a' with 'b'/out/production/classes/
+/Topics/The while and do-while loops/Determine the result/out/
+/Topics/The while and do-while loops/Determine the result/out/production/classes/
+/Topics/The while and do-while loops/Statements/out/
+/Topics/The while and do-while loops/Statements/out/production/classes/
+/Topics/The while and do-while loops/The largest element of a sequence/out/
+/Topics/The while and do-while loops/The largest element of a sequence/out/production/classes/
+/Topics/The while and do-while loops/The smallest value/out/
+/Topics/The while and do-while loops/The smallest value/out/production/classes/
+/Topics/The while and do-while loops/Theory/out/
+/Topics/The while and do-while loops/Theory/out/production/classes/
+/Topics/Types and variables/Invalid declaration of variables/out/
+/Topics/Types and variables/Invalid declaration of variables/out/production/classes/
+/Topics/Types and variables/The name of a variable/out/
+/Topics/Types and variables/The name of a variable/out/production/classes/
+/Topics/Types and variables/Theory/out/
+/Topics/Types and variables/Theory/out/production/classes/
